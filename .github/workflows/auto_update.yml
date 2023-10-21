@@ -35,3 +35,9 @@ jobs:
           python .github/script/generate_version.py
           python .github/script/summary.py
           python .github/script/upload.py
+
+      - name: Commit Change
+        run: |
+          source venv/bin/activate
+          python .github/scripts/commit.py
+          git push
