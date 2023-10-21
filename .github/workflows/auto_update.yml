@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -32,9 +32,9 @@ jobs:
           KEY: ${{ secrets.KEY }}
         run: |
           source venv/bin/activate
-          python .github/script/generate_version.py
-          python .github/script/summary.py
-          python .github/script/upload.py
+          python .github/scripts/generate_version.py
+          python .github/scripts/summary.py
+          python .github/scripts/upload.py
 
       - name: Commit Change
         run: |
