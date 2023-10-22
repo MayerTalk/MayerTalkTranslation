@@ -222,6 +222,12 @@
 `ja_JP` 作成  
 `zh_TW` 創建  
   
+### action.delete  
+`zh_CN` 删除  
+`en_US` delete  
+`ja_JP` 削除  
+`zh_TW` 刪除  
+  
 ### action.createOption  
 `zh_CN` 创建选项  
 `en_US` Create option  
