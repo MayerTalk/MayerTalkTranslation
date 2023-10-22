@@ -39,6 +39,7 @@
   "action": {
     "add": "添加",
     "create": "创建",
+    "delete": "删除",
     "createOption": "创建选项",
     "repeat": "复读",
     "cancel": "取消",

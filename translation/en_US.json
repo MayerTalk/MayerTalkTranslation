@@ -39,6 +39,7 @@
   "action": {
     "add": "Add",
     "create": "Create",
+    "delete": "delete",
     "createOption": "Create option",
     "repeat": "Repeat",
     "cancel": "Cancel",
