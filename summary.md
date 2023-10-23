@@ -60,17 +60,11 @@
 `ja_JP` 保存に成功しました  
 `zh_TW` 保存成功  
   
-### notify.synchronizedSuccessfully  
-`zh_CN` 同步成功  
-`en_US` Synchronized successfully  
-`ja_JP` 同期に成功しました  
-`zh_TW` 同步成功  
-  
-### notify.whetherToSynchronizeSavefile  
-`zh_CN` 是否同步当前数据至存档  
-`en_US` Whether to synchronize current data to savefile  
-`ja_JP` 現在のデータをセーブファイルに同期しますか？  
-`zh_TW` 是否同步當前數據至存檔  
+### notify.whetherToSaveSavefile  
+`zh_CN` 是否保存当前数据至存档  
+`en_US` Whether to save the current data to the save file  
+`ja_JP` 現在のデータをセーブファイルに保存するかどうか  
+`zh_TW` 是否保存當前數據至存檔  
   
 ### notify.importedSuccessfully  
 `zh_CN` 导入成功  
@@ -78,11 +72,11 @@
 `ja_JP` インポートに成功しました  
 `zh_TW` 導入成功  
   
-### notify.whetherToImportSavefile  
-`zh_CN` 是否导入存档  
-`en_US` Whether to import savefile  
-`ja_JP` セーブファイルをインポートしますか？  
-`zh_TW` 是否導入存檔  
+### notify.whetherToLoadSavefile  
+`zh_CN` 是否加载存档  
+`en_US` Whether to load the save file  
+`ja_JP` セーブファイルをロードするかどうか  
+`zh_TW` 是否讀取存檔  
   
 ### notify.deletedSuccessfully  
 `zh_CN` 删除成功  
@@ -209,6 +203,12 @@
 `en_US` Recovered successfully  
 `ja_JP` 復元成功  
 `zh_TW` 回覆成功  
+  
+### notify.loadedSuccessfully  
+`zh_CN` 加载成功  
+`en_US` Loaded successfully  
+`ja_JP` ロード成功  
+`zh_TW` 讀取成功  
   
 ### action.add  
 `zh_CN` 添加  
@@ -365,6 +365,18 @@
 `en_US` Export  
 `ja_JP` エクスポート  
 `zh_TW` 導出  
+  
+### action.createSavefile  
+`zh_CN` 新建存档  
+`en_US` Create a save file  
+`ja_JP` セーブファイルを作成する  
+`zh_TW` 新建存檔  
+  
+### action.load  
+`zh_CN` 加载  
+`en_US` Load  
+`ja_JP` ロード  
+`zh_TW` 讀取  
   
 ### noun.character  
 `zh_CN` 角色  
