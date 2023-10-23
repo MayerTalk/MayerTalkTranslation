@@ -10,10 +10,9 @@
     "pleaseSelectTheTypeToClear": "請選擇要清空的類型",
     "pleaseEnterSavefileName": "請輸入存檔名",
     "savedSuccessfully": "保存成功",
-    "synchronizedSuccessfully": "同步成功",
-    "whetherToSynchronizeSavefile": "是否同步當前數據至存檔",
+    "whetherToSaveSavefile": "是否保存當前數據至存檔",
     "importedSuccessfully": "導入成功",
-    "whetherToImportSavefile": "是否導入存檔",
+    "whetherToLoadSavefile": "是否讀取存檔",
     "deletedSuccessfully": "刪除成功",
     "whetherToDeleteSavefile": "是否刪除存檔",
     "whetherToDeleteChat": "是否刪除對話",
@@ -34,7 +33,8 @@
     "screenshottedCompletely": "截圖完成，正在恢復，請耐心等待",
     "startToScreenshot": "正在開始截圖，長截圖初始化時間較長，請耐心等待",
     "screenshottedSuccessfully": "截圖成功",
-    "recoveredSuccessfully": "回覆成功"
+    "recoveredSuccessfully": "回覆成功",
+    "loadedSuccessfully": "讀取成功"
   },
   "action": {
     "add": "添加",
@@ -62,7 +62,9 @@
     "editCharacter": "編輯角色",
     "chooseCharacterFromLibrary": "從素材庫中選擇角色",
     "import": "導入",
-    "export": "導出"
+    "export": "導出",
+    "createSavefile": "新建存檔",
+    "load": "讀取"
   },
   "noun": {
     "character": "角色",

@@ -10,10 +10,9 @@
     "pleaseSelectTheTypeToClear": "クリアするタイプを選択してください",
     "pleaseEnterSavefileName": "セーブファイル名を入力してください",
     "savedSuccessfully": "保存に成功しました",
-    "synchronizedSuccessfully": "同期に成功しました",
-    "whetherToSynchronizeSavefile": "現在のデータをセーブファイルに同期しますか？",
+"whetherToSaveSavefile": "現在のデータをセーブファイルに保存するかどうか",
     "importedSuccessfully": "インポートに成功しました",
-    "whetherToImportSavefile": "セーブファイルをインポートしますか？",
+"whetherToLoadSavefile": "セーブファイルをロードするかどうか",
     "deletedSuccessfully": "削除に成功しました",
     "whetherToDeleteSavefile": "セーブファイルを削除しますか？",
     "whetherToDeleteChat": "チャットを削除しますか？",
@@ -34,7 +33,8 @@
     "screenshottedCompletely": "スクリーンショット完了、復元中、お待ちください",
     "startToScreenshot": "スクリーンショットを開始しています、長いスクリーンショットの初期化に時間がかかります、お待ちください",
     "screenshottedSuccessfully": "スクリーンショット成功",
-    "recoveredSuccessfully": "復元成功"
+    "recoveredSuccessfully": "復元成功",
+    "loadedSuccessfully": "ロード成功"
   },
   "action": {
     "add": "追加",
@@ -62,7 +62,9 @@
     "editCharacter": "キャラクターを編集",
     "chooseCharacterFromLibrary": "素材ライブラリからキャラクターを選択",
     "import": "インポート",
-    "export": "エクスポート"
+    "export": "エクスポート",
+    "createSavefile": "セーブファイルを作成する",
+"load": "ロード"
   },
   "noun": {
     "character": "キャラクター",

@@ -10,10 +10,9 @@
     "pleaseSelectTheTypeToClear": "Please select the type to clear",
     "pleaseEnterSavefileName": "Please enter savefile name",
     "savedSuccessfully": "Saved successfully",
-    "synchronizedSuccessfully": "Synchronized successfully",
-    "whetherToSynchronizeSavefile": "Whether to synchronize current data to savefile",
+    "whetherToSaveSavefile": "Whether to save the current data to the save file",
     "importedSuccessfully": "Imported successfully",
-    "whetherToImportSavefile": "Whether to import savefile",
+    "whetherToLoadSavefile": "Whether to load the save file",
     "deletedSuccessfully": "Deleted successfully",
     "whetherToDeleteSavefile": "Whether to delete savefile",
     "whetherToDeleteChat": "Whether to delete chat",
@@ -34,7 +33,8 @@
     "screenshottedCompletely": "Screenshot completed, recovering, please wait...",
     "startToScreenshot": "Starting to screenshot, long screenshot initialization time is longer, please wait...",
     "screenshottedSuccessfully": "Screenshot successful",
-    "recoveredSuccessfully": "Recovered successfully"
+    "recoveredSuccessfully": "Recovered successfully",
+    "loadedSuccessfully": "Loaded successfully"
   },
   "action": {
     "add": "Add",
@@ -62,7 +62,9 @@
     "editCharacter": "Edit character",
     "chooseCharacterFromLibrary": "Choose character from library",
     "import": "Import",
-    "export": "Export"
+    "export": "Export",
+    "createSavefile": "Create a save file",
+    "load": "Load"
   },
   "noun": {
     "character": "Character",
