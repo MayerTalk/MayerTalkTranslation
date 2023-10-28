@@ -570,6 +570,12 @@
 `ja_JP` 警告  
 `zh_TW` 警告  
   
+### noun.screenshotHelper  
+`zh_CN` 截屏助手  
+`en_US` Screenshot Helper  
+`ja_JP` スクリーンショットヘルパー  
+`zh_TW` 截屏助手  
+  
 ### tip.pool.0  
 `zh_CN` 素材库里除了有干员头像，还有召唤物/敌人/装置的  
 `en_US` In addition to operator avatars, the material library also contains summons/enemies/devices  
@@ -665,6 +671,12 @@
 `en_US` The imported file has unsafe images, please verify the source (Image ID:  
 `ja_JP` インポートしたファイルに安全でない画像が含まれています。出典を確認してください（画像ID：  
 `zh_TW` 導入的文件有不安全圖片，請核實來源（圖片ID：  
+  
+### tip.screenshotHelper  
+`zh_CN` 如果没有自动下载截图，可长按图片手动保存  
+`en_US` If the screenshot is not automatically downloaded, you can long press the image to save it manually  
+`ja_JP` スクリーンショットが自動的にダウンロードされない場合は、画像を長押しして手動で保存できます  
+`zh_TW` 如果沒有自動下載截圖，可長按圖片手動保存  
   
 ### character.doctor  
 `zh_CN` 博士  
