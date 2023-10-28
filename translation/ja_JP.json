@@ -98,7 +98,8 @@
     "showCharacterName": "キャラクター名を表示",
     "storage": "ストレージ",
     "local": "ローカル",
-    "warning": "警告"
+    "warning": "警告",
+    "screenshotHelper": "スクリーンショットヘルパー"
   },
   "tip": {
     "pool": [
@@ -120,7 +121,8 @@
     "importFailed": "インポートに失敗しました。ファイル名が mayertalk-data-xxx.json であることを確認してください",
     "errorGuide": "可能であれば、このページのスクリーンショットを撮ってフィードバックグループに参加してください",
     "error": "エラーが発生しました",
-    "unsafeImage": "インポートしたファイルに安全でない画像が含まれています。出典を確認してください（画像ID："
+    "unsafeImage": "インポートしたファイルに安全でない画像が含まれています。出典を確認してください（画像ID：",
+    "screenshotHelper": "スクリーンショットが自動的にダウンロードされない場合は、画像を長押しして手動で保存できます"
   },
   "character": {
     "doctor": "博士",

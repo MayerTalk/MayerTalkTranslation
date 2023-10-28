@@ -98,7 +98,8 @@
     "showCharacterName": "顯示角色名",
     "storage": "儲存",
     "local": "本地",
-    "warning": "警告"
+    "warning": "警告",
+    "screenshotHelper": "截屏助手"
   },
   "tip": {
     "pool": [
@@ -120,7 +121,8 @@
     "importFailed": "導入失敗，請確認文件名為 mayertalk-data-xxx.json",
     "errorGuide": "，如果可以，請截圖此頁面，並加入交流群反饋",
     "error": "工口發生",
-    "unsafeImage": "導入的文件有不安全圖片，請核實來源（圖片ID："
+    "unsafeImage": "導入的文件有不安全圖片，請核實來源（圖片ID：",
+    "screenshotHelper": "如果沒有自動下載截圖，可長按圖片手動保存"
   },
   "character": {
     "doctor": "博士",
