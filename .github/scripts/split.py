@@ -5,10 +5,11 @@
 import json
 import copy
 from pathlib import Path
+from collections import OrderedDict
 
 lang_list = ['zh_CN', 'zh_TW', 'en_US', 'ja_JP']
 total_data = json.loads(Path('translation.json').read_text(encoding='utf-8'))
-empty_split = {k: {} for k in lang_list}
+empty_split = OrderedDict({k: {} for k in lang_list})
 
 
 def split(target_data: dict[str, dict]) -> dict[str, dict]:
