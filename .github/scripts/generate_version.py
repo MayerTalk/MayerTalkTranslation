@@ -1,3 +1,7 @@
+"""
+生成供缓存检查的version文件
+"""
+
 import json
 from pathlib import Path
 from hashlib import md5

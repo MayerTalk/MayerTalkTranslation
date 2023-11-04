@@ -32,8 +32,8 @@ jobs:
           KEY: ${{ secrets.KEY }}
         run: |
           source venv/bin/activate
+          python .github/scripts/split.py
           python .github/scripts/generate_version.py
-          python .github/scripts/summary.py
           python .github/scripts/upload.py
 
       - name: Commit Change

@@ -1,3 +1,7 @@
+"""
+提交commit
+"""
+
 import hashlib
 import subprocess
 from pathlib import Path

@@ -10,9 +10,9 @@
     "pleaseSelectTheTypeToClear": "クリアするタイプを選択してください",
     "pleaseEnterSavefileName": "セーブファイル名を入力してください",
     "savedSuccessfully": "保存に成功しました",
-"whetherToSaveSavefile": "現在のデータをセーブファイルに保存するかどうか",
+    "whetherToSaveSavefile": "現在のデータをセーブファイルに保存するかどうか",
     "importedSuccessfully": "インポートに成功しました",
-"whetherToLoadSavefile": "セーブファイルをロードするかどうか",
+    "whetherToLoadSavefile": "セーブファイルをロードするかどうか",
     "deletedSuccessfully": "削除に成功しました",
     "whetherToDeleteSavefile": "セーブファイルを削除しますか？",
     "whetherToDeleteChat": "チャットを削除しますか？",
@@ -64,7 +64,7 @@
     "import": "インポート",
     "export": "エクスポート",
     "createSavefile": "セーブファイルを作成する",
-"load": "ロード"
+    "load": "ロード"
   },
   "noun": {
     "character": "キャラクター",

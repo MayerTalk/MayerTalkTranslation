@@ -123,7 +123,6 @@
     "error": "An error occurred",
     "unsafeImage": "The imported file has unsafe images, please verify the source (Image ID:",
     "screenshotHelper": "If the screenshot is not automatically downloaded, you can long press the image to save it manually"
-
   },
   "character": {
     "doctor": "Doctor",
