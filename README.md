@@ -1,5 +1,7 @@
 # MayerTalkTranslation
 
+[English README](README.EN.md)
+
 [MayerTalk](https://github.com/MayerTalk/MayerTalk) 翻译文本
 
 目前，翻译文本由AI翻译提供，欢迎通过pr提交更准确的翻译文本
