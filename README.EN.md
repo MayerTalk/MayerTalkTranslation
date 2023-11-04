@@ -13,6 +13,10 @@ Please submit the translation to [translation.json](translation.json), and other
 ├─.github
 │  ├─scripts                # scripts for action
 │  └─workflows              # github action
-├─translation           # Aggregated translation
-├─version               # Translation data version
-└─translation.json      # All translations
+├─scripts
+│  ├─generate_empty.py      # generate emptyTranslation.js for MayerTalk use
+│  └─server.py              # local debug server, used with src/lib/dev.js
+├─translation           # aggregated translation
+├─version               # translation data version
+└─translation.json      # all translation
+```

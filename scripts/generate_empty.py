@@ -7,7 +7,7 @@ import json
 from pathlib import Path
 from collections import OrderedDict
 
-total_data = json.loads(Path('../../translation.json').read_text(encoding='utf-8'))
+total_data = json.loads(Path('../translation.json').read_text(encoding='utf-8'))
 
 
 def split(target_data: dict[str, dict]) -> OrderedDict[str, ...]:

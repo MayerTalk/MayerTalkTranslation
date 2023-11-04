@@ -15,6 +15,9 @@
 ├─.github
 │  ├─scripts                # scripts for action
 │  └─workflows              # github action
+├─scripts
+│  ├─generate_empty.py      # 生成emptyTranslation.js，供MayerTalk使用
+│  └─server.py              # 本地调试服务端，配合src/lib/dev.js使用
 ├─translation           # 聚合后的翻译
 ├─version               # 翻译数据版本
 └─translation.json      # 全部翻译
