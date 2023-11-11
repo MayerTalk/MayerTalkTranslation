@@ -1,12 +1,16 @@
 import os
 import json
 import asyncio
+from hashlib import md5
 from pathlib import Path
+from typing import Literal
 
 import yaml
 import uvicorn
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+
+LangList = Literal['zh_CN', 'zh_TW', 'en_US', 'ja_JP']
 
 
 class Config:
@@ -43,14 +47,14 @@ base_dir = Path('../')
 
 
 @app.get('/translation/{lang}.json')
-async def get_translation(lang: str):
+async def get_translation(lang: LangList) -> dict:
     with (base_dir / 'translation' / lang).with_suffix('.json').open(mode='rt', encoding='utf-8') as f:
         return json.load(f)
 
 
 @app.get('/version/translation/{lang}.txt')
-async def get_version(lang: str):
-    return (base_dir / 'version' / lang).with_suffix('.txt').read_text(encoding='utf-8')
+async def get_version(lang: LangList) -> str:
+    return md5((base_dir / 'translation' / lang).with_suffix('.json').read_bytes()).hexdigest()
 
 
 if __name__ == '__main__':
