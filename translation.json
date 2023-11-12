@@ -209,6 +209,12 @@
       "zh_TW": "讀取成功",
       "en_US": "Loaded successfully",
       "ja_JP": "ロード成功"
+    },
+    "downloadCanvasFailed": {
+      "zh_CN": "下载失败，请尝试缩小图片体积",
+      "zh_TW": "下載失敗，請嘗試縮小圖片體積",
+      "en_US": "Download failed, please try to reduce the image size",
+      "ja_JP": "ダウンロードに失敗しました。画像サイズを小さくしてみてください"
     }
   },
   "action": {
