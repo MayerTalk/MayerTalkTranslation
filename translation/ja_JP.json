@@ -34,7 +34,8 @@
     "startToScreenshot": "スクリーンショットを開始しています、長いスクリーンショットの初期化に時間がかかります、お待ちください",
     "screenshottedSuccessfully": "スクリーンショット成功",
     "recoveredSuccessfully": "復元成功",
-    "loadedSuccessfully": "ロード成功"
+    "loadedSuccessfully": "ロード成功",
+    "downloadCanvasFailed": "ダウンロードに失敗しました。画像サイズを小さくしてみてください"
   },
   "action": {
     "add": "追加",
@@ -98,8 +99,7 @@
     "showCharacterName": "キャラクター名を表示",
     "storage": "ストレージ",
     "local": "ローカル",
-    "warning": "警告",
-    "screenshotHelper": "スクリーンショットヘルパー"
+    "warning": "警告"
   },
   "tip": {
     "pool": [
@@ -121,8 +121,7 @@
     "importFailed": "インポートに失敗しました。ファイル名が mayertalk-data-xxx.json であることを確認してください",
     "errorGuide": "可能であれば、このページのスクリーンショットを撮ってフィードバックグループに参加してください",
     "error": "エラーが発生しました",
-    "unsafeImage": "インポートしたファイルに安全でない画像が含まれています。出典を確認してください（画像ID：",
-    "screenshotHelper": "スクリーンショットが自動的にダウンロードされない場合は、画像を長押しして手動で保存できます"
+    "unsafeImage": "インポートしたファイルに安全でない画像が含まれています。出典を確認してください（画像ID："
   },
   "character": {
     "doctor": "博士",

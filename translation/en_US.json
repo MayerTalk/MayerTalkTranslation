@@ -34,7 +34,8 @@
     "startToScreenshot": "Starting to screenshot, long screenshot initialization time is longer, please wait...",
     "screenshottedSuccessfully": "Screenshot successful",
     "recoveredSuccessfully": "Recovered successfully",
-    "loadedSuccessfully": "Loaded successfully"
+    "loadedSuccessfully": "Loaded successfully",
+    "downloadCanvasFailed": "Download failed, please try to reduce the image size"
   },
   "action": {
     "add": "Add",
@@ -98,8 +99,7 @@
     "showCharacterName": "Show character name",
     "storage": "Storage",
     "local": "Local",
-    "warning": "Warning",
-    "screenshotHelper": "Screenshot Helper"
+    "warning": "Warning"
   },
   "tip": {
     "pool": [
@@ -121,8 +121,7 @@
     "importFailed": "Import failed, please confirm that the file name is mayertalk-data-xxx.json",
     "errorGuide": ", if possible, please screenshot this page and join the exchange group for feedback",
     "error": "An error occurred",
-    "unsafeImage": "The imported file has unsafe images, please verify the source (Image ID:",
-    "screenshotHelper": "If the screenshot is not automatically downloaded, you can long press the image to save it manually"
+    "unsafeImage": "The imported file has unsafe images, please verify the source (Image ID:"
   },
   "character": {
     "doctor": "Doctor",

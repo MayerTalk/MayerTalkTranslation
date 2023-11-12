@@ -34,7 +34,8 @@
     "startToScreenshot": "正在開始截圖，長截圖初始化時間較長，請耐心等待",
     "screenshottedSuccessfully": "截圖成功",
     "recoveredSuccessfully": "回覆成功",
-    "loadedSuccessfully": "讀取成功"
+    "loadedSuccessfully": "讀取成功",
+    "downloadCanvasFailed": "下載失敗，請嘗試縮小圖片體積"
   },
   "action": {
     "add": "添加",
@@ -98,8 +99,7 @@
     "showCharacterName": "顯示角色名",
     "storage": "儲存",
     "local": "本地",
-    "warning": "警告",
-    "screenshotHelper": "截屏助手"
+    "warning": "警告"
   },
   "tip": {
     "pool": [
@@ -121,8 +121,7 @@
     "importFailed": "導入失敗，請確認文件名為 mayertalk-data-xxx.json",
     "errorGuide": "，如果可以，請截圖此頁面，並加入交流群反饋",
     "error": "工口發生",
-    "unsafeImage": "導入的文件有不安全圖片，請核實來源（圖片ID：",
-    "screenshotHelper": "如果沒有自動下載截圖，可長按圖片手動保存"
+    "unsafeImage": "導入的文件有不安全圖片，請核實來源（圖片ID："
   },
   "character": {
     "doctor": "博士",
