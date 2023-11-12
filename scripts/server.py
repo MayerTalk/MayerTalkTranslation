@@ -1,6 +1,7 @@
 import os
 import json
 import asyncio
+import subprocess
 from hashlib import md5
 from pathlib import Path
 from typing import Literal
@@ -46,14 +47,20 @@ server = uvicorn.Server(uvicorn.Config(
 base_dir = Path('../')
 
 
+def split():
+    subprocess.run('python .github/scripts/split.py', cwd='../')
+
+
 @app.get('/translation/{lang}.json')
 async def get_translation(lang: LangList) -> dict:
+    split()
     with (base_dir / 'translation' / lang).with_suffix('.json').open(mode='rt', encoding='utf-8') as f:
         return json.load(f)
 
 
 @app.get('/version/translation/{lang}.txt')
 async def get_version(lang: LangList) -> str:
+    split()
     return md5((base_dir / 'translation' / lang).with_suffix('.json').read_bytes()).hexdigest()
 
 
