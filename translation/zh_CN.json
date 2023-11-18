@@ -95,7 +95,7 @@
     "background": "背景色",
     "dialogWidth": "对话框宽度",
     "imageQuality": "图片质量",
-    "screenshotMaxHeight": "截图最大高度",
+    "screenshotMaxHeight": "截图最大长度",
     "showCharacterName": "显示角色名",
     "storage": "储存",
     "local": "本地",
@@ -113,7 +113,7 @@
       "Ctrl+1~9可以快捷切换角色"
     ],
     "selectCharDialog": "素材库仅包含干员/敌人/召唤物/装置",
-    "cutScreenshot": "请注意，最大高度的单位是px，一般而言1000px能容纳10条对话",
+    "cutScreenshot": "请注意，最大长度的单位是px，一般而言1000px能容纳10条对话",
     "settings": {
       "dialogWidth": "不包含头像"
     },
