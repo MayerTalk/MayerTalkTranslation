@@ -8,6 +8,7 @@ from typing import Literal
 
 import yaml
 import uvicorn
+import pyperclip
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -65,6 +66,10 @@ async def get_version(lang: LangList) -> str:
 
 
 if __name__ == '__main__':
+    print('server url copied')
+    pyperclip.copy(f'http://{config.server.host}:{config.server.port}/')
     loop = asyncio.new_event_loop()
     asyncio.set_event_loop(loop)
     loop.run_until_complete(server.serve())
+    split()
+    subprocess.run('python generate_empty.py')
