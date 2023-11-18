@@ -551,8 +551,8 @@
       "ja_JP": "画像品質"
     },
     "screenshotMaxHeight": {
-      "zh_CN": "截图最大高度",
-      "zh_TW": "截圖最大高度",
+      "zh_CN": "截图最大长度",
+      "zh_TW": "截圖最大长度",
       "en_US": "Screenshot maximum height",
       "ja_JP": "スクリーンショットの最大高さ"
     },
@@ -631,8 +631,8 @@
       "ja_JP": "素材ライブラリには、オペレーター/敵/召喚物/装置のみが含まれています"
     },
     "cutScreenshot": {
-      "zh_CN": "请注意，最大高度的单位是px，一般而言1000px能容纳10条对话",
-      "zh_TW": "請注意，最大高度的單位是px，一般而言1000px能容納10條對話",
+      "zh_CN": "请注意，最大长度的单位是px，一般而言1000px能容纳10条对话",
+      "zh_TW": "請注意，最大长度的單位是px，一般而言1000px能容納10條對話",
       "en_US": "Please note that the unit of maximum height is px, generally 1000px can accommodate 10 dialogs",
       "ja_JP": "最大高さの単位はpxであり、一般的に1000pxは10行のダイアログを収容できることに注意してください"
     },
