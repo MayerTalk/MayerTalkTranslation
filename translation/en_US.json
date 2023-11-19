@@ -35,7 +35,8 @@
     "screenshottedSuccessfully": "Screenshot successful",
     "recoveredSuccessfully": "Recovered successfully",
     "loadedSuccessfully": "Loaded successfully",
-    "downloadCanvasFailed": "Download failed, please try to reduce the image size"
+    "downloadCanvasFailed": "Download failed, please try to reduce the image size",
+    "emptiedSuccessfully": "Emptied Successfully"
   },
   "action": {
     "add": "Add",
@@ -46,7 +47,7 @@
     "cancel": "Cancel",
     "confirm": "Confirm",
     "screenshot": "Screenshot",
-    "empty": "Clear",
+    "empty": "Empty",
     "withdraw": "Withdraw",
     "redo": "Redo",
     "goto": "Go to",
@@ -65,7 +66,8 @@
     "import": "Import",
     "export": "Export",
     "createSavefile": "Create a save file",
-    "load": "Load"
+    "load": "Load",
+    "generate": "Generate"
   },
   "noun": {
     "character": "Character",
@@ -95,11 +97,23 @@
     "background": "Background color",
     "dialogWidth": "Dialog box width",
     "imageQuality": "Image quality",
-    "screenshotMaxHeight": "Screenshot maximum height",
     "showCharacterName": "Show character name",
     "storage": "Storage",
     "local": "Local",
-    "warning": "Warning"
+    "warning": "Warning",
+    "autoCut": "Auto Cut",
+    "maxCutLength": "Maximum cutting length",
+    "maxLength": "Maximum length",
+    "screenshot": "Screenshot",
+    "watermark": "Watermark",
+    "title": "Title",
+    "author": "Author",
+    "expectCutNumber": "Expected Cut Number",
+    "stats": "Stats",
+    "characterCount": "Character Number",
+    "chatCount": "Chat Number",
+    "wordCount": "Word Count",
+    "screenshotLength": "Screenshot Length"
   },
   "tip": {
     "pool": [
@@ -113,7 +127,7 @@
       "Ctrl+1~9 can switch characters quickly"
     ],
     "selectCharDialog": "The material library only contains operators/enemies/summons/devices",
-    "cutScreenshot": "Please note that the unit of maximum height is px, generally 1000px can accommodate 10 dialogs",
+    "cutScreenshot": "Please note that the unit of maximum length is px, and generally 1000px can accommodate 10 conversations",
     "settings": {
       "dialogWidth": "Does not include avatar"
     },

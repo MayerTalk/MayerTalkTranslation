@@ -35,7 +35,8 @@
     "screenshottedSuccessfully": "截图成功",
     "recoveredSuccessfully": "回复成功",
     "loadedSuccessfully": "加载成功",
-    "downloadCanvasFailed": "下载失败，请尝试缩小图片体积"
+    "downloadCanvasFailed": "下载失败，请尝试缩小图片体积",
+    "emptiedSuccessfully": "清空成功"
   },
   "action": {
     "add": "添加",
@@ -65,7 +66,8 @@
     "import": "导入",
     "export": "导出",
     "createSavefile": "新建存档",
-    "load": "加载"
+    "load": "加载",
+    "generate": "生成"
   },
   "noun": {
     "character": "角色",
@@ -95,11 +97,23 @@
     "background": "背景色",
     "dialogWidth": "对话框宽度",
     "imageQuality": "图片质量",
-    "screenshotMaxHeight": "截图最大长度",
     "showCharacterName": "显示角色名",
     "storage": "储存",
     "local": "本地",
-    "warning": "警告"
+    "warning": "警告",
+    "autoCut": "自动裁分",
+    "maxCutLength": "裁分最大长度",
+    "maxLength": "最大长度",
+    "screenshot": "截图",
+    "watermark": "水印",
+    "title": "标题",
+    "author": "作者",
+    "expectCutNumber": "预期裁分数量",
+    "stats": "统计",
+    "characterCount": "角色数",
+    "chatCount": "对话数",
+    "wordCount": "文本量",
+    "screenshotLength": "截图长度"
   },
   "tip": {
     "pool": [

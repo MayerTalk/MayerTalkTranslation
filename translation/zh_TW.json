@@ -35,7 +35,8 @@
     "screenshottedSuccessfully": "截圖成功",
     "recoveredSuccessfully": "回覆成功",
     "loadedSuccessfully": "讀取成功",
-    "downloadCanvasFailed": "下載失敗，請嘗試縮小圖片體積"
+    "downloadCanvasFailed": "下載失敗，請嘗試縮小圖片體積",
+    "emptiedSuccessfully": "清空成功"
   },
   "action": {
     "add": "添加",
@@ -65,7 +66,8 @@
     "import": "導入",
     "export": "導出",
     "createSavefile": "新建存檔",
-    "load": "讀取"
+    "load": "讀取",
+    "generate": "生成"
   },
   "noun": {
     "character": "角色",
@@ -95,11 +97,23 @@
     "background": "背景色",
     "dialogWidth": "對話框寬度",
     "imageQuality": "圖片質量",
-    "screenshotMaxHeight": "截圖最大长度",
     "showCharacterName": "顯示角色名",
     "storage": "儲存",
     "local": "本地",
-    "warning": "警告"
+    "warning": "警告",
+    "autoCut": "自動裁分",
+    "maxCutLength": "裁分最大長度",
+    "maxLength": "最大長度",
+    "screenshot": "截圖",
+    "watermark": "浮水印",
+    "title": "標題",
+    "author": "作者",
+    "expectCutNumber": "預期裁分數量",
+    "stats": "統計",
+    "characterCount": "角色數",
+    "chatCount": "對話數",
+    "wordCount": "文本量",
+    "screenshotLength": "截圖長度"
   },
   "tip": {
     "pool": [
@@ -113,7 +127,7 @@
       "Ctrl+1~9可以快捷切換角色"
     ],
     "selectCharDialog": "素材庫僅包含幹員/敵人/召喚物/裝置",
-    "cutScreenshot": "請注意，最大长度的單位是px，一般而言1000px能容納10條對話",
+    "cutScreenshot": "請注意，最大長度的單位是px，一般而言1000px能容納10條對話",
     "settings": {
       "dialogWidth": "不包含頭像"
     },

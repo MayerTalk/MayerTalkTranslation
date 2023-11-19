@@ -35,7 +35,8 @@
     "screenshottedSuccessfully": "スクリーンショット成功",
     "recoveredSuccessfully": "復元成功",
     "loadedSuccessfully": "ロード成功",
-    "downloadCanvasFailed": "ダウンロードに失敗しました。画像サイズを小さくしてみてください"
+    "downloadCanvasFailed": "ダウンロードに失敗しました。画像サイズを小さくしてみてください",
+    "emptiedSuccessfully": "正常に空になりました"
   },
   "action": {
     "add": "追加",
@@ -65,7 +66,8 @@
     "import": "インポート",
     "export": "エクスポート",
     "createSavefile": "セーブファイルを作成する",
-    "load": "ロード"
+    "load": "ロード",
+    "generate": "生成する"
   },
   "noun": {
     "character": "キャラクター",
@@ -95,11 +97,23 @@
     "background": "背景色",
     "dialogWidth": "ダイアログの幅",
     "imageQuality": "画像品質",
-    "screenshotMaxHeight": "スクリーンショットの最大高さ",
     "showCharacterName": "キャラクター名を表示",
     "storage": "ストレージ",
     "local": "ローカル",
-    "warning": "警告"
+    "warning": "警告",
+    "autoCut": "自動カット",
+    "maxCutLength": "最大切断長",
+    "maxLength": "最大長さ",
+    "screenshot": "スクリーンショット",
+    "watermark": "ウォーターマーク",
+    "title": "タイトル",
+    "author": "著者",
+    "expectCutNumber": "予想カット数",
+    "stats": "統計",
+    "characterCount": "キャラクター数",
+    "chatCount": "チャット数",
+    "wordCount": "ワードカウント",
+    "screenshotLength": "スクリーンショットの長さ"
   },
   "tip": {
     "pool": [
@@ -113,7 +127,7 @@
       "Ctrl+1~9でキャラクターを素早く切り替えることができます"
     ],
     "selectCharDialog": "素材ライブラリには、オペレーター/敵/召喚物/装置のみが含まれています",
-    "cutScreenshot": "最大高さの単位はpxであり、一般的に1000pxは10行のダイアログを収容できることに注意してください",
+    "cutScreenshot": "最大長さの単位はpxであることに注意してください。一般的に、1000pxは10の会話を収容できます",
     "settings": {
       "dialogWidth": "アバターは含まれません"
     },
