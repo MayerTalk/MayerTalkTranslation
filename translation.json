@@ -215,6 +215,12 @@
       "zh_TW": "下載失敗，請嘗試縮小圖片體積",
       "en_US": "Download failed, please try to reduce the image size",
       "ja_JP": "ダウンロードに失敗しました。画像サイズを小さくしてみてください"
+    },
+    "emptiedSuccessfully": {
+      "zh_CN": "清空成功",
+      "zh_TW": "清空成功",
+      "en_US": "Emptied Successfully",
+      "ja_JP": "正常に空になりました"
     }
   },
   "action": {
@@ -269,7 +275,7 @@
     "empty": {
       "zh_CN": "清空",
       "zh_TW": "清空",
-      "en_US": "Clear",
+      "en_US": "Empty",
       "ja_JP": "空にする"
     },
     "withdraw": {
@@ -385,6 +391,12 @@
       "zh_TW": "讀取",
       "en_US": "Load",
       "ja_JP": "ロード"
+    },
+    "generate": {
+      "zh_CN": "生成",
+      "zh_TW": "生成",
+      "en_US": "Generate",
+      "ja_JP": "生成する"
     }
   },
   "noun": {
@@ -550,12 +562,6 @@
       "en_US": "Image quality",
       "ja_JP": "画像品質"
     },
-    "screenshotMaxHeight": {
-      "zh_CN": "截图最大长度",
-      "zh_TW": "截圖最大长度",
-      "en_US": "Screenshot maximum height",
-      "ja_JP": "スクリーンショットの最大高さ"
-    },
     "showCharacterName": {
       "zh_CN": "显示角色名",
       "zh_TW": "顯示角色名",
@@ -579,6 +585,84 @@
       "zh_TW": "警告",
       "en_US": "Warning",
       "ja_JP": "警告"
+    },
+    "autoCut": {
+      "zh_CN": "自动裁分",
+      "zh_TW": "自動裁分",
+      "en_US": "Auto Cut",
+      "ja_JP": "自動カット"
+    },
+    "maxCutLength": {
+      "zh_CN": "裁分最大长度",
+      "zh_TW": "裁分最大長度",
+      "en_US": "Maximum cutting length",
+      "ja_JP": "最大切断長"
+    },
+    "maxLength": {
+      "zh_CN": "最大长度",
+      "zh_TW": "最大長度",
+      "en_US": "Maximum length",
+      "ja_JP": "最大長さ"
+    },
+    "screenshot": {
+      "zh_CN": "截图",
+      "zh_TW": "截圖",
+      "en_US": "Screenshot",
+      "ja_JP": "スクリーンショット"
+    },
+    "watermark": {
+      "zh_CN": "水印",
+      "zh_TW": "浮水印",
+      "en_US": "Watermark",
+      "ja_JP": "ウォーターマーク"
+    },
+    "title": {
+      "zh_CN": "标题",
+      "zh_TW": "標題",
+      "en_US": "Title",
+      "ja_JP": "タイトル"
+    },
+    "author": {
+      "zh_CN": "作者",
+      "zh_TW": "作者",
+      "en_US": "Author",
+      "ja_JP": "著者"
+    },
+    "expectCutNumber": {
+      "zh_CN": "预期裁分数量",
+      "zh_TW": "預期裁分數量",
+      "en_US": "Expected Cut Number",
+      "ja_JP": "予想カット数"
+    },
+    "stats": {
+      "zh_CN": "统计",
+      "zh_TW": "統計",
+      "en_US": "Stats",
+      "ja_JP": "統計"
+    },
+    "characterCount": {
+      "zh_CN": "角色数",
+      "zh_TW": "角色數",
+      "en_US": "Character Number",
+      "ja_JP": "キャラクター数"
+    },
+    "chatCount": {
+      "zh_CN": "对话数",
+      "zh_TW": "對話數",
+      "en_US": "Chat Number",
+      "ja_JP": "チャット数"
+    },
+    "wordCount": {
+      "zh_CN": "文本量",
+      "zh_TW": "文本量",
+      "en_US": "Word Count",
+      "ja_JP": "ワードカウント"
+    },
+    "screenshotLength": {
+      "zh_CN": "截图长度",
+      "zh_TW": "截圖長度",
+      "en_US": "Screenshot Length",
+      "ja_JP": "スクリーンショットの長さ"
     }
   },
   "tip": {
@@ -632,9 +716,9 @@
     },
     "cutScreenshot": {
       "zh_CN": "请注意，最大长度的单位是px，一般而言1000px能容纳10条对话",
-      "zh_TW": "請注意，最大长度的單位是px，一般而言1000px能容納10條對話",
-      "en_US": "Please note that the unit of maximum height is px, generally 1000px can accommodate 10 dialogs",
-      "ja_JP": "最大高さの単位はpxであり、一般的に1000pxは10行のダイアログを収容できることに注意してください"
+      "zh_TW": "請注意，最大長度的單位是px，一般而言1000px能容納10條對話",
+      "en_US": "Please note that the unit of maximum length is px, and generally 1000px can accommodate 10 conversations",
+      "ja_JP": "最大長さの単位はpxであることに注意してください。一般的に、1000pxは10の会話を収容できます"
     },
     "settings": {
       "dialogWidth": {
