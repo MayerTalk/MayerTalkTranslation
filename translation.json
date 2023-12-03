@@ -663,6 +663,12 @@
       "zh_TW": "截圖長度",
       "en_US": "Screenshot Length",
       "ja_JP": "スクリーンショットの長さ"
+    },
+    "characterSelectorPermanent": {
+      "zh_CN": "角色栏常驻",
+      "zh_TW": "角色欄常駐",
+      "en_US": "Character Selector Permanent",
+      "ja_JP": "キャラクターセレクター永続"
     }
   },
   "tip": {
@@ -726,6 +732,12 @@
         "zh_TW": "不包含頭像",
         "en_US": "Does not include avatar",
         "ja_JP": "アバターは含まれません"
+      },
+      "characterSelectorPermanent": {
+        "zh_CN": "宽屏状态",
+        "zh_TW": "寬屏狀態",
+        "en_US": "Widescreen Status",
+        "ja_JP": "ワイドスクリーンステータス"
       }
     },
     "emptyData": {
