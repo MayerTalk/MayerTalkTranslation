@@ -113,7 +113,8 @@
     "characterCount": "Character Number",
     "chatCount": "Chat Number",
     "wordCount": "Word Count",
-    "screenshotLength": "Screenshot Length"
+    "screenshotLength": "Screenshot Length",
+    "characterSelectorPermanent": "Character Selector Permanent"
   },
   "tip": {
     "pool": [
@@ -129,7 +130,8 @@
     "selectCharDialog": "The material library only contains operators/enemies/summons/devices",
     "cutScreenshot": "Please note that the unit of maximum length is px, and generally 1000px can accommodate 10 conversations",
     "settings": {
-      "dialogWidth": "Does not include avatar"
+      "dialogWidth": "Does not include avatar",
+      "characterSelectorPermanent": "Widescreen Status"
     },
     "emptyData": "About to clear all data (dialog, character, savefile), and cannot be recovered",
     "importFailed": "Import failed, please confirm that the file name is mayertalk-data-xxx.json",

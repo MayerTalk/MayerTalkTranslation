@@ -113,7 +113,8 @@
     "characterCount": "キャラクター数",
     "chatCount": "チャット数",
     "wordCount": "ワードカウント",
-    "screenshotLength": "スクリーンショットの長さ"
+    "screenshotLength": "スクリーンショットの長さ",
+    "characterSelectorPermanent": "キャラクターセレクター永続"
   },
   "tip": {
     "pool": [
@@ -129,7 +130,8 @@
     "selectCharDialog": "素材ライブラリには、オペレーター/敵/召喚物/装置のみが含まれています",
     "cutScreenshot": "最大長さの単位はpxであることに注意してください。一般的に、1000pxは10の会話を収容できます",
     "settings": {
-      "dialogWidth": "アバターは含まれません"
+      "dialogWidth": "アバターは含まれません",
+      "characterSelectorPermanent": "ワイドスクリーンステータス"
     },
     "emptyData": "すべてのデータ（ダイアログ、キャラクター、セーブデータ）がすぐに消去され、復元することはできません",
     "importFailed": "インポートに失敗しました。ファイル名が mayertalk-data-xxx.json であることを確認してください",

@@ -113,7 +113,8 @@
     "characterCount": "角色數",
     "chatCount": "對話數",
     "wordCount": "文本量",
-    "screenshotLength": "截圖長度"
+    "screenshotLength": "截圖長度",
+    "characterSelectorPermanent": "角色欄常駐"
   },
   "tip": {
     "pool": [
@@ -129,7 +130,8 @@
     "selectCharDialog": "素材庫僅包含幹員/敵人/召喚物/裝置",
     "cutScreenshot": "請注意，最大長度的單位是px，一般而言1000px能容納10條對話",
     "settings": {
-      "dialogWidth": "不包含頭像"
+      "dialogWidth": "不包含頭像",
+      "characterSelectorPermanent": "寬屏狀態"
     },
     "emptyData": "即將清空所有數據（對話、角色、存檔），且無法恢復",
     "importFailed": "導入失敗，請確認文件名為 mayertalk-data-xxx.json",
