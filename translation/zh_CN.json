@@ -36,7 +36,9 @@
     "recoveredSuccessfully": "回复成功",
     "loadedSuccessfully": "加载成功",
     "downloadCanvasFailed": "下载失败，请尝试缩小图片体积",
-    "emptiedSuccessfully": "清空成功"
+    "emptiedSuccessfully": "清空成功",
+    "multiScreenshotStart": "多截图开始",
+    "multiScreenshotEnd": "多截图结束"
   },
   "action": {
     "add": "添加",
@@ -67,7 +69,12 @@
     "export": "导出",
     "createSavefile": "新建存档",
     "load": "加载",
-    "generate": "生成"
+    "generate": "生成",
+    "previous": "上一个",
+    "next": "下一个",
+    "importFile": "导入文件",
+    "viewCuttingPoint": "查看裁分点",
+    "cutBelow": "在下方裁分"
   },
   "noun": {
     "character": "角色",
@@ -114,7 +121,10 @@
     "chatCount": "对话数",
     "wordCount": "文本量",
     "screenshotLength": "截图长度",
-    "characterSelectorPermanent": "角色栏常驻"
+    "characterSelectorPermanent": "角色栏常驻",
+    "quickEdit": "快速编辑",
+    "manualCutting": "手动裁分",
+    "numberOfCuttingPoints": "裁分点数量"
   },
   "tip": {
     "pool": [

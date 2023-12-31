@@ -36,7 +36,9 @@
     "recoveredSuccessfully": "Recovered successfully",
     "loadedSuccessfully": "Loaded successfully",
     "downloadCanvasFailed": "Download failed, please try to reduce the image size",
-    "emptiedSuccessfully": "Emptied Successfully"
+    "emptiedSuccessfully": "Emptied Successfully",
+    "multiScreenshotStart": "Multi-screenshot start",
+    "multiScreenshotEnd": "Multi-screenshot end"
   },
   "action": {
     "add": "Add",
@@ -67,7 +69,12 @@
     "export": "Export",
     "createSavefile": "Create a save file",
     "load": "Load",
-    "generate": "Generate"
+    "generate": "Generate",
+    "previous": "Previous",
+    "next": "Next",
+    "importFile": "Import file",
+    "viewCuttingPoint": "View cutting point",
+    "cutBelow": "Cut below"
   },
   "noun": {
     "character": "Character",
@@ -114,7 +121,10 @@
     "chatCount": "Chat Number",
     "wordCount": "Word Count",
     "screenshotLength": "Screenshot Length",
-    "characterSelectorPermanent": "Character Selector Permanent"
+    "characterSelectorPermanent": "Character Selector Permanent",
+    "quickEdit": "Quick edit",
+    "manualCutting": "Manual cutting",
+    "numberOfCuttingPoints": "Number of cutting points"
   },
   "tip": {
     "pool": [
