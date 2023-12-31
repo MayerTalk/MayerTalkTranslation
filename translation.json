@@ -221,6 +221,18 @@
       "zh_TW": "清空成功",
       "en_US": "Emptied Successfully",
       "ja_JP": "正常に空になりました"
+    },
+    "multiScreenshotStart": {
+      "zh_CN": "多截图开始",
+      "zh_TW": "多截圖開始",
+      "en_US": "Multi-screenshot start",
+      "ja_JP": "マルチスクリーンショット開始"
+    },
+    "multiScreenshotEnd": {
+      "zh_CN": "多截图结束",
+      "zh_TW": "多截圖結束",
+      "en_US": "Multi-screenshot end",
+      "ja_JP": "マルチスクリーンショット終了"
     }
   },
   "action": {
@@ -397,6 +409,36 @@
       "zh_TW": "生成",
       "en_US": "Generate",
       "ja_JP": "生成する"
+    },
+    "previous": {
+      "zh_CN": "上一个",
+      "zh_TW": "上一個",
+      "en_US": "Previous",
+      "ja_JP": "前"
+    },
+    "next": {
+      "zh_CN": "下一个",
+      "zh_TW": "下一個",
+      "en_US": "Next",
+      "ja_JP": "次"
+    },
+    "importFile": {
+      "zh_CN": "导入文件",
+      "zh_TW": "導入文件",
+      "en_US": "Import file",
+      "ja_JP": "ファイルをインポート"
+    },
+    "viewCuttingPoint": {
+      "zh_CN": "查看裁分点",
+      "zh_TW": "查看裁分點",
+      "en_US": "View cutting point",
+      "ja_JP": "カットポイントを表示"
+    },
+    "cutBelow": {
+      "zh_CN": "在下方裁分",
+      "zh_TW": "在下方裁分",
+      "en_US": "Cut below",
+      "ja_JP": "下でカット"
     }
   },
   "noun": {
@@ -669,6 +711,24 @@
       "zh_TW": "角色欄常駐",
       "en_US": "Character Selector Permanent",
       "ja_JP": "キャラクターセレクター永続"
+    },
+    "quickEdit": {
+      "zh_CN": "快速编辑",
+      "zh_TW": "快速編輯",
+      "en_US": "Quick edit",
+      "ja_JP": "クイック編集"
+    },
+    "manualCutting": {
+      "zh_CN": "手动裁分",
+      "zh_TW": "手動裁分",
+      "en_US": "Manual cutting",
+      "ja_JP": "手動でカット"
+    },
+    "numberOfCuttingPoints": {
+      "zh_CN": "裁分点数量",
+      "zh_TW": "裁分點數量",
+      "en_US": "Number of cutting points",
+      "ja_JP": "カットポイントの数"
     }
   },
   "tip": {
