@@ -74,7 +74,8 @@
     "next": "下一个",
     "importFile": "导入文件",
     "viewCuttingPoint": "查看裁分点",
-    "cutBelow": "在下方裁分"
+    "cutBelow": "在下方裁分",
+    "reset": "重置"
   },
   "noun": {
     "character": "角色",

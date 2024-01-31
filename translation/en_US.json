@@ -74,7 +74,8 @@
     "next": "Next",
     "importFile": "Import file",
     "viewCuttingPoint": "View cutting point",
-    "cutBelow": "Cut below"
+    "cutBelow": "Cut below",
+    "reset": "Reset"
   },
   "noun": {
     "character": "Character",

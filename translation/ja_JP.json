@@ -74,7 +74,8 @@
     "next": "次",
     "importFile": "ファイルをインポート",
     "viewCuttingPoint": "カットポイントを表示",
-    "cutBelow": "下でカット"
+    "cutBelow": "下でカット",
+    "reset": "リセット"
   },
   "noun": {
     "character": "キャラクター",
