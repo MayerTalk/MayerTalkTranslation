@@ -439,6 +439,12 @@
       "zh_TW": "在下方裁分",
       "en_US": "Cut below",
       "ja_JP": "下でカット"
+    },
+    "reset": {
+      "zh_CN": "重置",
+      "zh_TW": "重置",
+      "en_US": "Reset",
+      "ja_JP": "リセット"
     }
   },
   "noun": {
