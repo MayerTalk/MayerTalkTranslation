@@ -735,6 +735,12 @@
       "zh_TW": "裁分點數量",
       "en_US": "Number of cutting points",
       "ja_JP": "カットポイントの数"
+    },
+    "char": {
+      "zh_CN": "角色",
+      "zh_TW": "角色",
+      "en_US": "Character",
+      "ja_JP": "キャラクター"
     }
   },
   "tip": {
