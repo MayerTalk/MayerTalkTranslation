@@ -125,7 +125,8 @@
     "characterSelectorPermanent": "キャラクターセレクター永続",
     "quickEdit": "クイック編集",
     "manualCutting": "手動でカット",
-    "numberOfCuttingPoints": "カットポイントの数"
+    "numberOfCuttingPoints": "カットポイントの数",
+    "char": "キャラクター"
   },
   "tip": {
     "pool": [

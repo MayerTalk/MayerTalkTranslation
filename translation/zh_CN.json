@@ -125,7 +125,8 @@
     "characterSelectorPermanent": "角色栏常驻",
     "quickEdit": "快速编辑",
     "manualCutting": "手动裁分",
-    "numberOfCuttingPoints": "裁分点数量"
+    "numberOfCuttingPoints": "裁分点数量",
+    "char": "角色"
   },
   "tip": {
     "pool": [

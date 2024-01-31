@@ -125,7 +125,8 @@
     "characterSelectorPermanent": "Character Selector Permanent",
     "quickEdit": "Quick edit",
     "manualCutting": "Manual cutting",
-    "numberOfCuttingPoints": "Number of cutting points"
+    "numberOfCuttingPoints": "Number of cutting points",
+    "char": "Character"
   },
   "tip": {
     "pool": [
