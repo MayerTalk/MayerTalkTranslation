@@ -5,6 +5,7 @@
     "pleaseEnterTextHere": "ここにテキストを入力してください",
     "pleaseSelectAtLeastOneCharacter": "少なくとも1つのキャラクターを選択してください",
     "pleaseSelectTheCharToRepeat": "繰り返すキャラクターを選択してください",
+    "aboutToClear": "間もなくクリア",
     "aboutToClearAllChats": "すべてのチャットをクリアしようとしています",
     "aboutToClearAllCharactersAndChats": "すべてのキャラクターとチャットをクリアしようとしています",
     "pleaseSelectTheTypeToClear": "クリアするタイプを選択してください",
@@ -75,7 +76,9 @@
     "importFile": "ファイルをインポート",
     "viewCuttingPoint": "カットポイントを表示",
     "cutBelow": "下でカット",
-    "reset": "リセット"
+    "reset": "リセット",
+    "multiSelect": "複数選択",
+    "partialScreenshot": "部分的なスクリーンショット"
   },
   "noun": {
     "character": "キャラクター",
@@ -126,7 +129,8 @@
     "quickEdit": "クイック編集",
     "manualCutting": "手動でカット",
     "numberOfCuttingPoints": "カットポイントの数",
-    "char": "キャラクター"
+    "char": "キャラクター",
+    "cutPoint": "カットポイント"
   },
   "tip": {
     "pool": [
@@ -145,7 +149,7 @@
       "dialogWidth": "アバターは含まれません",
       "characterSelectorPermanent": "ワイドスクリーンステータス"
     },
-    "emptyData": "すべてのデータ（ダイアログ、キャラクター、セーブデータ）がすぐに消去され、復元することはできません",
+    "emptyData": "すべてのデータがリセットされ、回復できません",
     "importFailed": "インポートに失敗しました。ファイル名が mayertalk-data-xxx.json であることを確認してください",
     "errorGuide": "可能であれば、このページのスクリーンショットを撮ってフィードバックグループに参加してください",
     "error": "エラーが発生しました",

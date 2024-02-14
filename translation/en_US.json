@@ -5,6 +5,7 @@
     "pleaseEnterTextHere": "Please enter text here",
     "pleaseSelectAtLeastOneCharacter": "Please select at least one character",
     "pleaseSelectTheCharToRepeat": "Please select the character to repeat",
+    "aboutToClear": "About to clear",
     "aboutToClearAllChats": "About to clear all chats",
     "aboutToClearAllCharactersAndChats": "About to clear all characters and chats",
     "pleaseSelectTheTypeToClear": "Please select the type to clear",
@@ -75,7 +76,9 @@
     "importFile": "Import file",
     "viewCuttingPoint": "View cutting point",
     "cutBelow": "Cut below",
-    "reset": "Reset"
+    "reset": "Reset",
+    "multiSelect": "Multi-select",
+    "partialScreenshot": "Partial Screenshot"
   },
   "noun": {
     "character": "Character",
@@ -126,7 +129,8 @@
     "quickEdit": "Quick edit",
     "manualCutting": "Manual cutting",
     "numberOfCuttingPoints": "Number of cutting points",
-    "char": "Character"
+    "char": "Character",
+    "cutPoint": "Cut Point"
   },
   "tip": {
     "pool": [
@@ -145,7 +149,7 @@
       "dialogWidth": "Does not include avatar",
       "characterSelectorPermanent": "Widescreen Status"
     },
-    "emptyData": "About to clear all data (dialog, character, savefile), and cannot be recovered",
+    "emptyData": "All data will be reset soon and cannot be recovered",
     "importFailed": "Import failed, please confirm that the file name is mayertalk-data-xxx.json",
     "errorGuide": ", if possible, please screenshot this page and join the exchange group for feedback",
     "error": "An error occurred",

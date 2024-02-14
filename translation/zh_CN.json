@@ -5,6 +5,7 @@
     "pleaseEnterTextHere": "请在此输入文本",
     "pleaseSelectAtLeastOneCharacter": "请选择至少一个角色",
     "pleaseSelectTheCharToRepeat": "请选择要复读的角色",
+    "aboutToClear": "即将清空",
     "aboutToClearAllChats": "即将清空所有对话",
     "aboutToClearAllCharactersAndChats": "即将清空所有角色、对话",
     "pleaseSelectTheTypeToClear": "请选择要清空的类型",
@@ -75,7 +76,9 @@
     "importFile": "导入文件",
     "viewCuttingPoint": "查看裁分点",
     "cutBelow": "在下方裁分",
-    "reset": "重置"
+    "reset": "重置",
+    "multiSelect": "多选",
+    "partialScreenshot": "部分截图"
   },
   "noun": {
     "character": "角色",
@@ -126,7 +129,8 @@
     "quickEdit": "快速编辑",
     "manualCutting": "手动裁分",
     "numberOfCuttingPoints": "裁分点数量",
-    "char": "角色"
+    "char": "角色",
+    "cutPoint": "裁分点"
   },
   "tip": {
     "pool": [
@@ -145,7 +149,7 @@
       "dialogWidth": "不包含头像",
       "characterSelectorPermanent": "宽屏状态"
     },
-    "emptyData": "即将清空所有数据（对话、角色、存档），且无法恢复",
+    "emptyData": "即将重置所有数据，且无法恢复",
     "importFailed": "导入失败，请确认文件名为 mayertalk-data-xxx.json",
     "errorGuide": "，如果可以，请截图此页面，并加入交流群反馈",
     "error": "工口发生",

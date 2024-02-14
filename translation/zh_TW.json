@@ -5,6 +5,7 @@
     "pleaseEnterTextHere": "請在此輸入文本",
     "pleaseSelectAtLeastOneCharacter": "請選擇至少一個角色",
     "pleaseSelectTheCharToRepeat": "請選擇要復讀的角色",
+    "aboutToClear": "即將清空",
     "aboutToClearAllChats": "即將清空所有對話",
     "aboutToClearAllCharactersAndChats": "即將清空所有角色、對話",
     "pleaseSelectTheTypeToClear": "請選擇要清空的類型",
@@ -75,7 +76,9 @@
     "importFile": "導入文件",
     "viewCuttingPoint": "查看裁分點",
     "cutBelow": "在下方裁分",
-    "reset": "重置"
+    "reset": "重置",
+    "multiSelect": "多選",
+    "partialScreenshot": "部分截圖"
   },
   "noun": {
     "character": "角色",
@@ -126,7 +129,8 @@
     "quickEdit": "快速編輯",
     "manualCutting": "手動裁分",
     "numberOfCuttingPoints": "裁分點數量",
-    "char": "角色"
+    "char": "角色",
+    "cutPoint": "裁分點"
   },
   "tip": {
     "pool": [
@@ -145,7 +149,7 @@
       "dialogWidth": "不包含頭像",
       "characterSelectorPermanent": "寬屏狀態"
     },
-    "emptyData": "即將清空所有數據（對話、角色、存檔），且無法恢復",
+    "emptyData": "即將重置所有數據，且無法恢復",
     "importFailed": "導入失敗，請確認文件名為 mayertalk-data-xxx.json",
     "errorGuide": "，如果可以，請截圖此頁面，並加入交流群反饋",
     "error": "工口發生",
