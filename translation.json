@@ -30,6 +30,12 @@
       "en_US": "Please select the character to repeat",
       "ja_JP": "繰り返すキャラクターを選択してください"
     },
+    "aboutToClear": {
+      "zh_CN": "即将清空",
+      "zh_TW": "即將清空",
+      "en_US": "About to clear",
+      "ja_JP": "間もなくクリア"
+    },
     "aboutToClearAllChats": {
       "zh_CN": "即将清空所有对话",
       "zh_TW": "即將清空所有對話",
@@ -445,6 +451,18 @@
       "zh_TW": "重置",
       "en_US": "Reset",
       "ja_JP": "リセット"
+    },
+    "multiSelect": {
+      "zh_CN": "多选",
+      "zh_TW": "多選",
+      "en_US": "Multi-select",
+      "ja_JP": "複数選択"
+    },
+    "partialScreenshot": {
+      "zh_CN": "部分截图",
+      "zh_TW": "部分截圖",
+      "en_US": "Partial Screenshot",
+      "ja_JP": "部分的なスクリーンショット"
     }
   },
   "noun": {
@@ -741,6 +759,12 @@
       "zh_TW": "角色",
       "en_US": "Character",
       "ja_JP": "キャラクター"
+    },
+    "cutPoint": {
+      "zh_CN": "裁分点",
+      "zh_TW": "裁分點",
+      "en_US": "Cut Point",
+      "ja_JP": "カットポイント"
     }
   },
   "tip": {
@@ -813,10 +837,10 @@
       }
     },
     "emptyData": {
-      "zh_CN": "即将清空所有数据（对话、角色、存档），且无法恢复",
-      "zh_TW": "即將清空所有數據（對話、角色、存檔），且無法恢復",
-      "en_US": "About to clear all data (dialog, character, savefile), and cannot be recovered",
-      "ja_JP": "すべてのデータ（ダイアログ、キャラクター、セーブデータ）がすぐに消去され、復元することはできません"
+      "zh_CN": "即将重置所有数据，且无法恢复",
+      "zh_TW": "即將重置所有數據，且無法恢復",
+      "en_US": "All data will be reset soon and cannot be recovered",
+      "ja_JP": "すべてのデータがリセットされ、回復できません"
     },
     "importFailed": {
       "zh_CN": "导入失败，请确认文件名为 mayertalk-data-xxx.json",
