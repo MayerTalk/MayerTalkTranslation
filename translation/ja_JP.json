@@ -39,7 +39,8 @@
     "downloadCanvasFailed": "ダウンロードに失敗しました。画像サイズを小さくしてみてください",
     "emptiedSuccessfully": "正常に空になりました",
     "multiScreenshotStart": "マルチスクリーンショット開始",
-    "multiScreenshotEnd": "マルチスクリーンショット終了"
+    "multiScreenshotEnd": "マルチスクリーンショット終了",
+    "avatarIsRequired": "アバターは必須です"
   },
   "action": {
     "add": "追加",

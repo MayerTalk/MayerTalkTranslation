@@ -39,7 +39,8 @@
     "downloadCanvasFailed": "Download failed, please try to reduce the image size",
     "emptiedSuccessfully": "Emptied Successfully",
     "multiScreenshotStart": "Multi-screenshot start",
-    "multiScreenshotEnd": "Multi-screenshot end"
+    "multiScreenshotEnd": "Multi-screenshot end",
+    "avatarIsRequired": "Avatar is required"
   },
   "action": {
     "add": "Add",

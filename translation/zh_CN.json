@@ -39,7 +39,8 @@
     "downloadCanvasFailed": "下载失败，请尝试缩小图片体积",
     "emptiedSuccessfully": "清空成功",
     "multiScreenshotStart": "多截图开始",
-    "multiScreenshotEnd": "多截图结束"
+    "multiScreenshotEnd": "多截图结束",
+    "avatarIsRequired": "头像是必须的"
   },
   "action": {
     "add": "添加",
