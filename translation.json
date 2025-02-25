@@ -239,6 +239,12 @@
       "zh_TW": "多截圖結束",
       "en_US": "Multi-screenshot end",
       "ja_JP": "マルチスクリーンショット終了"
+    },
+    "avatarIsRequired": {
+      "zh_CN": "头像是必须的",
+      "zh_TW": "頭像是必須的",
+      "en_US": "Avatar is required",
+      "ja_JP": "アバターは必須です"
     }
   },
   "action": {
